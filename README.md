@@ -38,10 +38,12 @@ Bachelor of Computer Applications (BCA) — Hindustan University, Chennai 2022 �
 
 📜 Certifications
 🏅 Data Analytics with Microsoft Excel — Besant Technologies, Chennai
-🏅 Python & SQL for Data Analysis — Besant Technologies, Chennai
+🏅 Python & SQL for Data Analysis — Besant Technologies, Chennai<img width="1275" height="891" alt="Screenshot 2026-08-23 142920" src="https://github.com/user-attachments/assets/2d5d6218-506d-4ec8-b481-ef50a7a4402f" />
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prithiv729&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithiv729&theme=tokyonight&hide_border=true" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithiv729&layout=compact&theme=tokyonight&hide_border=true" width="50%" /> </p>
 
 ⚠️ Replace prithiv729 above with your actual GitHub username so the stats cards render correctly.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prithiv729&style=for-the-badge&color=blue" alt="profile views" /> </p> <p align="center"><i>📊 Turning numbers into narratives — one dashboard at a time.</i></p>
+
